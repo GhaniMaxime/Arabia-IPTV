@@ -1,57 +1,35 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/28/Ktv_1.png" ,Kuwait TV1
-http://www.elahmad.com/tv/m3u8/kuwait_tv_5.php?id=kwtv1
+https://www.elAhmad.com/tv/m3u8/kuwait_tv_8.m3u8?id=kwtv1&t=7a327b8929e27444d3ca6661eae231e8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/ktv2.png" ,Kuwait TV 2 English
-http://www.elahmad.com/tv/m3u8/kuwait_tv_5.php?id=kwtv2
+https://www.elAhmad.com/tv/m3u8/kuwait_tv_8.m3u8?id=kwtv2&t=7a327b8929e27444d3ca6661eae231e8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/ktvsport.png" ,Kuwait Sport
-http://www.elahmad.com/tv/m3u8/kuwait_tv_5.php?id=kwtvsports
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Kuwait Drama
-http://www.elahmad.com/tv/m3u8/kuwait_tv_5.php?id=kwtvkids
+https://www.elAhmad.com/tv/m3u8/kuwait_tv_8.m3u8?id=kwtvsports&t=7a327b8929e27444d3ca6661eae231e8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Kuwait Sports 3
+https://www.elAhmad.com/tv/m3u8/kuwait_tv_8.m3u8?id=kwtvkids&t=7a327b8929e27444d3ca6661eae231e8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/ethraa.png" ,Kuwait Ithraa
-http://www.elahmad.com/tv/m3u8/kuwait_tv_5.php?id=kwtvethraa
+https://www.elAhmad.com/tv/m3u8/kuwait_tv_8.m3u8?id=kwtvethraa&t=7a327b8929e27444d3ca6661eae231e8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Kuwait Al Araby
-http://www.elahmad.com/tv/m3u8/kuwait_tv_5.php?id=kwtvarabi
+https://www.elAhmad.com/tv/m3u8/kuwait_tv_8.m3u8?id=kwtvarabi&t=7a327b8929e27444d3ca6661eae231e8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/alqurain.png" ,Kuwait Qurain
-http://www.elahmad.com/tv/m3u8/kuwait_tv_5.php?id=kwtvqurain
+https://www.elAhmad.com/tv/m3u8/kuwait_tv_8.m3u8?id=kwtvqurain&t=7a327b8929e27444d3ca6661eae231e8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/ktvsport2.png" ,Kuwait Sport +
-http://www.elahmad.com/tv/m3u8/kuwait_tv_5.php?id=kwtvsportsplus
+https://www.elAhmad.com/tv/m3u8/kuwait_tv_8.m3u8?id=kwtvsportsplus&t=7a327b8929e27444d3ca6661eae231e8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/05/AlMajlis-1-200x150.png" ,Al Majlis
-http://www.elahmad.com/tv/m3u8/kuwait_tv_5.php?id=kwtvmajlis
+https://www.elAhmad.com/tv/m3u8/kuwait_tv_8.m3u8?id=kwtvmajlis&t=7a327b8929e27444d3ca6661eae231e8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlraiTV-200x150.png" ,Al Rai 
 https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/scopetv.png" ,Scoop Tv
-https://nxtn.cdn.mangomolo.com/scopetv/smil:scopetv.stream.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.atvkuwait.com/img/logo/atv_logo.png" ,Adalla TV
-https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/funoon.png" ,Funoon TV
-https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/alsabah.png" ,Assabah TV
-https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/kw/alshahed.png" ,Asshahed TV
-https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.marinafm.com/images/Logo_MarinaFM.png" ,Marina FM TV
-https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/playlist.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=rWGtIZfHhnI&ab_channel=MarinaTV
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7b3738_c28c3019ad0f4881871d46464187a739~mv2.png" ,360FM
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=SpWYuNDrIMU
-#EXTINF:-1 tvg-id="" tvg-logo="" ,كويت اف ام / Kuwait FM 103.7
-https://kwmedia.hibridcdn.net/kwmedia/kwfm/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,98.9 القرآن الكريم / AlQuran Alkarem 98.9
-https://kwmedia.hibridcdn.net/kwmedia/kwholyquran/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,سوبر ستيشن / Super Staion FM 99.7
-https://kwmedia.hibridcdn.net/kwmedia/kwsuper/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,89.5 البرنامج العام / Kuwait Radio One 89.5
-https://kwmedia.hibridcdn.net/kwmedia/kwradio1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,93.9 صوت الشباب / OFM 93.9
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,الشعبية / Traditional Station 94.9
-https://kwmedia.hibridcdn.net/kwmedia/kwshaabiya/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,الغناء العربي القديم / The Old Arabic Singing 87.9
-https://kwmedia.hibridcdn.net/kwmedia/kwclassical/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,ايزي اف ام / Easy 92.5
-https://kwmedia.hibridcdn.net/kwmedia/kweasy/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,97.5 البرنامج الثاني / Kuwait Radio Two 97.5
-https://kwmedia.hibridcdn.net/kwmedia/kwradio2/chunks.m3u8
-
-
-
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=aBotbajwkkg&ab_channel=360FM
