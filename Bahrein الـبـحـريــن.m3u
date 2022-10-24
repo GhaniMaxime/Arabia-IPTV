@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/bh/bahrain.png" ,Bahrein TV
-http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/bh/bahrainlawal.png" ,Bahrein Lawal TV
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Lawal_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/bh/bahrainintl.png" ,Bahrein International 
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/bh/bahrainquran.png" ,Bahrein Quran
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/bh/bahrainsports.png" ,Bahrein Sport 1
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Sports_all/playlist.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/bh/bahrainsports.png" ,Bahrein Sport 2
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Sports+2_all/playlist.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist.m3u8
