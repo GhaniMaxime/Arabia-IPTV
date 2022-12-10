@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml"
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trt1.png" ,TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trt2.png" ,TRT 2
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/trtspor.png" ,TRT SPOR
@@ -31,8 +31,8 @@ https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/showtv.png" ,SHOW
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/atv.png" ,ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1 tvg-id="FoxTurkey.us" tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/259-101_import.png" ,FOX
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="FoxTurkey.us" tvg-logo="https://tejedd76pluu.merlincdn.net/img/FOXLogo.jpg" ,FOX
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/tr/kanald.png" ,KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
