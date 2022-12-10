@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vzZ6yvs/salam.png" group-title="National TV" ,سلام
-https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/6pFTbqll6mbEI_0.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/1byXU8SyCHKfG_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b1S25fP/libya-ahrar.png" ,ليبيا الأحرار
 https://video.zidivo.com:9392/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svdWnwb/libyach.webp" ,قناة ليبيا
