@@ -188,3 +188,5 @@ https://webradio.tda.dz/AinTimouchent_64K.mp3
 https://webradio.tda.dz/Ghardaia_64K.mp3
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/relizane.png" ,Ghélizane غليزان 
 https://webradio.tda.dz/Relizan_64K.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dDMQrHP/2m.jpg" ,2M الثانية 
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
